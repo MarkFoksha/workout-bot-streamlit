@@ -1,0 +1,9 @@
+# Ігноруємо локальні секрети Streamlit
+.streamlit/secrets.toml
+
+# Ігноруємо віртуальне середовище Python
+.venv/
+
+# Кеш Python
+__pycache__/
+*.pyc
