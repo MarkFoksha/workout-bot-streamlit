@@ -7,3 +7,6 @@
 # Кеш Python
 __pycache__/
 *.pyc
+
+# Системні файли macOS
+.DS_Store
